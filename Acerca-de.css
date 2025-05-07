@@ -1,0 +1,322 @@
+ .u-section-1 {
+  background-image: url("images/cae85a3073f44d9833f7eda3779103253b1423fed01d3018d038908068881075bb2dba38817ad28d402dce5edb9dd16652dbfe49fb1f2bb1a38266_1280.jpg");
+  background-position: 50% 50%;
+  background-size: 115%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 271px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 269px;
+  width: 589px;
+  height: auto;
+  margin: 1px auto 1px 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 10px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 2.25rem;
+  font-weight: 700;
+  font-family: Roboto, sans-serif;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-size: 125%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 223px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    background-size: auto 125%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 171px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    background-size: auto 150%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 128px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-size: auto 135%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 81px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 924px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 402px;
+  background-image: url("images/interior-design-with-photoframes-couch.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 402px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 20px auto 0 0;
+}
+
+.u-section-2 .u-layout-cell-3 {
+  min-height: 402px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-3 {
+  margin-bottom: 0;
+  margin-top: 24px;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 20px 0 0;
+}
+
+.u-section-2 .u-image-2 {
+  min-height: 402px;
+  background-image: url("images/mid-century-modern-living-room-interior-design-with-monstera-tree.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 782px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 331px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 331px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 331px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 331px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 628px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 254px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 254px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1082px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 381px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 381px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 800px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 240px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 240px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 924px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 402px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 20px auto 0 0;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 402px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-3 {
+  margin-bottom: 0;
+  margin-top: 24px;
+}
+
+.u-section-3 .u-text-4 {
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 782px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 331px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 331px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 628px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1082px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 800px;
+  }
+}
